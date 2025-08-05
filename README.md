@@ -1,5 +1,5 @@
 # AWS-Hosted Portfolio Project  
-**Live Demo**: https://ap-southeast-2.console.aws.amazon.com/s3/buckets/portfolio.s3bucket?region=ap-southeast-2&bucketType=general&tab=permissions
+**Live Demo**: http://portfolio.s3bucket.s3-website-ap-southeast-2.amazonaws.com/#hero
 
 ## Tech Stack  
 - **Hosting**: AWS S3 + CloudFront  
